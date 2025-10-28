@@ -19,8 +19,8 @@ Our assets are designed to be **flexible, easy to use, and suitable** for both s
 
 ### 📬 Contact
 
-📧 **Email:** manis.gamestudio@gmail.com
-🔗 **LinkedIn:** [Manis Studio](https://www.linkedin.com/in/marina-belova-unity/)
+📧 **Email:** manis.gamestudio@gmail.com  
+🔗 **LinkedIn:** [Marina Belova](https://www.linkedin.com/in/marina-belova-unity/)  
 🛠️ **Unity Asset Store:** *(link coming soon)*
 
 ---
